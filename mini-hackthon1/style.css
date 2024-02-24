@@ -1,0 +1,87 @@
+
+
+.img-1 {
+    margin-top: 1.5rem;
+}
+
+
+header {
+    margin-right: 1rem;
+    background-color: white;
+    color: #003087;
+    font-size: 23px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+header ul {
+    display: inline-flex;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+}
+
+header button {
+    background-color:#003087;;
+    font-size: 1.4rem;
+    color: azure;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 12px;
+}
+
+.center-1 button {
+    display: flex ;
+}
+
+.button-1  {
+    margin-left: 16rem;
+    background-color: #003087;
+    color: white;
+
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+section {
+    background-color: #003087;
+    color: white;
+    
+}
+
+section h1 {
+    margin-left: 7rem;
+    font-size: 85px ;
+}
+  
+section h4 {
+    color: lightblue;
+    margin-left: 9rem;
+    font-size: 20px ;
+
+}
+
+section h5 {
+    padding-bottom: 15rem;
+    margin-left: 9rem;
+    font-size: 25px ;
+}
+
+.input-1 img {
+    margin-left: 8rem;
+    
+
+}
+
+.button-2 button {
+    margin-right: 5rem;
+    background-color:#f9b822;
+    font-size: 1.1rem;
+    color: black;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 25px;
+}
